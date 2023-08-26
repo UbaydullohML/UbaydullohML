@@ -95,9 +95,7 @@ I am a ML Researcher & Software Engineer <img src="https://media.giphy.com/media
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaydullohML&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/UbaydullohML/RB5-Qualcomm)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UbaydullohML&theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UbaydullohML&show_icons=true&theme=default)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UbaydullohML&theme=white)](https://git.io/streak-stats)
 
