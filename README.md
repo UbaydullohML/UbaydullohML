@@ -34,13 +34,12 @@ Here are some ideas to get you started:
 
 <h1> 
   <div id="header" align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-  ##### My name is Ubaydullo
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,  I am Ubaydullo
   </div>
 </h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=UbaydullohML&label=Profile%20views&color=0e75b6&style=for-the-badge&color=CD5C5C&label=PROFILE+VIEWS" alt="UbaydullohML" /> </p>
 
 ---
 
@@ -53,7 +52,7 @@ I am a ML Researcher & Software Engineer <img src="https://media.giphy.com/media
 
 - :zap: I solve problems on HackerRank/GeeksforGeeks and read tech articles in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ubaydullo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ubaydullo-asatullaev-265b12154/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ubaydullo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ubaydullo-asatullaev-265b12154/), **[Email](https://ubaydullohazard@gmail.com)**
 
 
 ---
