@@ -52,7 +52,7 @@ I am a ML Researcher & Software Engineer <img src="https://media.giphy.com/media
 
 - :zap: I solve problems on HackerRank/GeeksforGeeks and read tech articles in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ubaydullo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ubaydullo-asatullaev-265b12154/), **[Email](https://ubaydullohazard@gmail.com)**, **[Kaggle](https://www.kaggle.com/ubaydulloasatullaev)**
+- :mailbox:How to reach me: **[Email](https://ubaydullohazard@gmail.com)**, **[Kaggle](https://www.kaggle.com/ubaydulloasatullaev)**, [![Linkedin Badge](https://img.shields.io/badge/-Ubaydullo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ubaydullo-asatullaev-265b12154/),
 
 
 ---
